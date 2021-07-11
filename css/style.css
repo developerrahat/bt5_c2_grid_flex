@@ -1,0 +1,78 @@
+.header, .hero, .body, .bar, .footer{
+    background: springgreen;
+    margin-bottom: 10px;
+}
+.box{
+    min-height: 80px;
+    margin: 10px 0;
+    background:brown;
+    color: white;
+    font-size: 30px;
+    text-align: center;
+   
+}
+.hcolor3{
+    background: darkblue;
+}
+.bcolor3{
+    background: darkorange;
+}
+
+/* second responsive grid layout */
+.h-main, .s-sec, .w-sec, .p-sec,.c-sec, .f-sec, .m-sec{
+    background: deeppink;
+    margin-bottom: 10px;
+}
+
+.style{
+    min-height: 70px;
+    margin: 10px 0;
+    background: darkslateblue;
+    font-size: 30px;
+    color: whitesmoke;
+}
+
+.pcolor46{
+    background: yellow;
+    color: red;
+}
+.ccolor5{
+    background:lime;
+    color: black;
+}
+
+
+
+/*B5 Utilities classes */
+.border-box{
+    width: 200px;
+    min-height: 200px;
+    margin-bottom: 10px;
+}
+
+.flot{
+    min-height: 50px;
+}
+
+
+
+.item{
+    width: 100px;
+    height: 60px;
+    background: rebeccapurple;
+    margin: 5px;
+}
+
+
+.flex-item2{
+    height: 400px;
+}
+.item2{
+    width: 100px;
+    height: 60px;
+    background: orangered;
+    margin: 5px;
+    color: white;
+    font-size: 25px;
+    text-align: center;
+}
